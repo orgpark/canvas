@@ -11,7 +11,7 @@ canvas {
 
 body {
   display: flex;
-  gap: 18px;
+  gap: 19px;
   justify-content: center;
   background-color: gainsboro;
   align-items: center;
